@@ -25,7 +25,6 @@ try:
 except OSError:
 	pass
 
-#mp3 
 print("="*40,"\n")
 for i in Links:
 	url = i
